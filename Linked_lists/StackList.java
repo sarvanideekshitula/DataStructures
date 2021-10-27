@@ -1,7 +1,7 @@
 public class StackList{
   public Node top = null;
   public StackList(){
-    ;
+    
   }
   public void push(int value){
     Node newnode = new Node(value);
